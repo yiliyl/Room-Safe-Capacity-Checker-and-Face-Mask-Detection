@@ -1,0 +1,10 @@
+__pycache__/
+*.avi
+*.mp4
+*.cfg
+*.weights
+*.model
+*.caffemodel
+*.names
+*.prototxt
+*.log
